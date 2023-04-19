@@ -1,0 +1,67 @@
+/* 1 Aliquam tincidunt, sem eget volutpat porta */
+h1{
+    color: rgb(120, 192, 168);
+}
+/* 2 Suspendisse gravida*/
+strong  {
+    color: red;
+}
+
+/* 3 Etiam sagittis tortor*/
+.destacado{
+    color: rgb(230, 162, 18);
+}
+
+/* 4 Aliquam tincidunt, sem eget volutpat porta*/
+h2{
+    color: blue;
+}
+
+/* 5 Aenean turpis metus*/
+a{
+color: rgb(253, 0, 0);
+}
+
+/* 6 aliquam non,*/
+em{
+
+    color: blue;
+}
+span.especial{
+    color: blueviolet;
+}
+th.especial{
+    color: rgba(255, 136, 0, 0.767);
+}
+th.especial2{
+    color: rgba(255, 136, 0, 0.767);
+}
+th{
+    color: rgb(255, 2, 2);
+}
+th.especial{
+    color: rgba(255, 136, 0, 0.767);
+
+}
+td{
+    color: green;
+}
+td.row{
+    color: darkgreen;
+}
+row.especial{
+    color: rgb(255, 208, 0);
+}
+
+
+
+div{
+    color: darkolivegreen;
+}
+span{
+    color: rgb(178, 119, 233);
+}
+
+.id{
+    color: green;
+  }

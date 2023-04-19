@@ -1,0 +1,12 @@
+
+
+body{
+    background-color: rgb(90, 130, 204);
+}
+input[type="text"], input[type="email"] {
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+  }
+  
